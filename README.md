@@ -1,5 +1,6 @@
 # VOID Ergo S
 *A handwired split keyboard, running QMK firmware*
+
 ![VOID Ergo S](https://i.imgur.com/aQ571vc.jpg)
 
 The VOID Ergo S is a 3d printed, handwired, split keyboard with a layout similar to the Iris/Corne/Kyria, running QMK Firmware on Pro Micro controllers. Connection between the two halves of the keyboard is made with an aux cable via serial.
@@ -9,6 +10,7 @@ I suggest printing the case using a 0.4 mm nozzle, supports are not needed but r
 The brass inserts can be fixed in the bottom case by heating them and applying pressure with a soldering iron set to about 200-220C.
 
 *V1, also known as the 'Fat' VOID Ergo*
+
 ![VOID Ergo Fat](https://i.imgur.com/liKmJqt.jpg)
 
 # Bill of Materials
@@ -29,4 +31,5 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
 A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void_ergo). Edit them to suit your own needs and build the firmware following the QMK docs.
 
 *Matrix layout*
+
 ![VOID Ergo S matrix layout](https://i.imgur.com/hrN9udq.png)
