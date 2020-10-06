@@ -11,7 +11,7 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
 
 # Bill of Materials
 
-* 46 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
+* 46 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/)/aliexpress [link](https://www.aliexpress.com/item/32729204179.html))
 * 44/46 cherry mx style switches
 * 24 AWG (0.2 mm2) wire
 * 2 x Pro Micro (aliexpress [link](https://www.aliexpress.com/item/32902569443.html))
