@@ -19,7 +19,7 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
 * 10 x M2x12 allen head screws (aliexpress [link](https://www.aliexpress.com/item/32966941844.html), 14mm overall length, 4mm diameter head)
 * 10 x M2 brass inserts (aliexpress [link](https://www.aliexpress.com/item/4000585933306.html), 3.5mm outer diameter)
 * 2 x PJ320A 3.5mm female audio connectors (aliexpress [link](https://www.aliexpress.com/item/32368285821.html))
-* 1 x 6x6x6 push button (aliespress [link](https://www.aliexpress.com/item/32960657626.html))
+* 1 x 6x6x6 push button (optional (used to reset master)/aliexpress [link](https://www.aliexpress.com/item/32960657626.html))
 * hot glue for securing the Pro Micros to the bottom case(optional, but recommended)
 
 # QMK Fork
