@@ -9,6 +9,8 @@ I suggest printing the case using a 0.4 mm nozzle, supports are not needed but r
 
 The brass inserts can be fixed in the bottom case by heating them and applying pressure with a soldering iron set to about 200-220C.
 
+![VOID Ergo S matrix layout](https://i.imgur.com/hrN9udq.png)
+
 # Bill of Materials
 
 * 46 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/)/aliexpress [link](https://www.aliexpress.com/item/32729204179.html))
