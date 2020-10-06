@@ -42,10 +42,10 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
     Serial Pin
     D1
 
-# QMK Fork
-
-A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void_ergo). Edit them to suit your own needs and build the firmware following the QMK docs.
-
 *Matrix layout*
 
 ![VOID Ergo S matrix layout](https://i.imgur.com/hrN9udq.png)
+
+# QMK Fork
+
+A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void_ergo). Edit them to suit your own needs and build the firmware following the QMK docs.
