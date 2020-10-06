@@ -2,3 +2,26 @@
 *A handwired ortholinear split keyboard, running QMK firmware*
 
 ![VOID40](https://i.imgur.com/aQ571vc.jpg)
+
+The VOID Ergo S is a 3d printed, handwired, split keyboard with a layout similar to the Iris/Corne/Kyria, running QMK Firmware on Pro Micro controllers. Connection between the two halves of the keyboard is made with an aux cable via serial.
+
+I suggest printing the case using a 0.4 mm nozzle, supports are not needed but recommended for the bottom cases as the ports will print with less imperfections.
+
+The brass inserts can be fixed in the bottom case by heating them and applying pressure with a soldering iron set to about 200-220C.
+
+# Bill of Materials
+
+* 46 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
+* 44/46 cherry mx style switches
+* 24 AWG (0.2 mm2) wire
+* 2 x Pro Micro
+* 2 x EC11 Rotary Encoder (optional/I used a 15mm EC11 clone, mounted to the plate using [this adapter](https://www.thingiverse.com/thing:3770166))
+* 10 x M2x12 allen head screws (aliexpress [link](https://www.aliexpress.com/item/32966941844.html), 14mm overall length, 4mm diameter head)
+* 10 x M2 brass inserts (aliexpress [link](https://www.aliexpress.com/item/4000585933306.html), 3.5mm outer diameter)
+* 2 x PJ320A 3.5mm female audio connectors (aliexpress [link](https://www.aliexpress.com/item/32368285821.html))
+* 1 x 6x6x6 push button (aliespress [link](https://www.aliexpress.com/item/32960657626.html))
+* hot glue for securing the Pro Micros to the bottom case(optional, but recommended)
+
+# QMK Fork
+
+A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void_ergo). Edit them to suit your own needs and build the firmware following the QMK docs.
