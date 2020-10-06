@@ -28,15 +28,16 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
 
 # Pin assignment
 
-    ROW0    ROW1    ROW2    ROW3
-    B1      B3      B2      B6
+    ROW0        ROW1        ROW2         ROW3
+    B1          B3          B2           B6
     
-    COLUMN0   COLUMN1   COLUMN2   COLUMN3   COLUMN4   COLUMN5
-    D4        C6        D7        E6        B4        B5
+    
+    COLUMN0     COLUMN1     COLUMN2     COLUMN3     COLUMN4     COLUMN5
+    D4          C6          D7          E6          B4          B5
 
 
-    Encoder Pad A   Encoder Pad B
-    F5              F6
+    Encoder Pad A           Encoder Pad B
+    F5                      F6
 
 
     Serial Pin
