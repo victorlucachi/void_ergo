@@ -26,6 +26,22 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
 * 1 x 6x6x6 push button (optional (used to reset master)/aliexpress [link](https://www.aliexpress.com/item/32960657626.html))
 * hot glue for securing the Pro Micros to the bottom case (optional, but recommended)
 
+# Pin assignment
+
+    ROW0    ROW1    ROW2    ROW3
+    B1      B3      B2      B6
+    
+    COLUMN0   COLUMN1   COLUMN2   COLUMN3   COLUMN4   COLUMN5
+    D4        C6        D7        E6        B4        B5
+
+
+    Encoder Pad A   Encoder Pad B
+    F5              F6
+
+
+    Serial Pin
+    D1
+
 # QMK Fork
 
 A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void_ergo). Edit them to suit your own needs and build the firmware following the QMK docs.
