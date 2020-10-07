@@ -6,6 +6,8 @@
 | ![](https://i.imgur.com/X6qhLW8.jpeg) 	| ![](https://i.imgur.com/vaoo9bM.jpeg) 	| ![](https://i.imgur.com/nWaW7JV.jpeg) 	|
 |---------------------------------------	|---------------------------------------	|---------------------------------------	|
 
+###### More renders [here](https://imgur.com/a/ki1BZij)
+
 The VOID Ergo S is a 3d printed, handwired, split keyboard with a layout similar to the Iris/Corne/Kyria, running QMK Firmware on Pro Micro controllers. Connection between the two halves of the keyboard is made with an aux cable via serial.
 
 I suggest printing the case using a 0.4 mm nozzle, supports are not needed but recommended for the bottom cases as the ports will print with less imperfections.
