@@ -14,7 +14,7 @@ I suggest printing the case using a 0.4 mm nozzle, supports are not needed but r
 
 The brass inserts can be fixed in the bottom case by heating them and applying pressure with a soldering iron set to about 200-220C.
 
-*V1, also known as the 'Fat' VOID Ergo*
+*VOID Ergo S with V1 of the VOID Ergo under it*
 
 ![VOID Ergo Fat](https://i.imgur.com/liKmJqt.jpg)
 
