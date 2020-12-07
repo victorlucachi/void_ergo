@@ -3,8 +3,6 @@
 
 ![VOID Ergo S](https://i.imgur.com/aQ571vc.jpg)
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 | ![](https://i.imgur.com/X6qhLW8.jpeg) 	| ![](https://i.imgur.com/vaoo9bM.jpeg) 	| ![](https://i.imgur.com/nWaW7JV.jpeg) 	|
 |---------------------------------------	|---------------------------------------	|---------------------------------------	|
 
@@ -57,3 +55,7 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
 # QMK Fork
 
 A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void_ergo). Edit them to suit your own needs and build the firmware following the QMK docs.
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
