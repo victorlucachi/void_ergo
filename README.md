@@ -18,6 +18,13 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
 
 ![VOID Ergo Fat](https://i.imgur.com/liKmJqt.jpg)
 
+# Handwiring guide
+
+I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
+
+| ![](https://i.imgur.com/MHTt02w.jpg) 	| ![](https://i.imgur.com/TzdhlCM.jpg) 	| ![](https://i.imgur.com/vTpQaXI.jpg) 	|
+|---------------------------------------	|---------------------------------------	|---------------------------------------	|
+
 # Bill of Materials
 
 * 46 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/)/aliexpress [link](https://www.aliexpress.com/item/32729204179.html))
