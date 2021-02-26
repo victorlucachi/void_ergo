@@ -54,7 +54,7 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
 
 # QMK Fork
 
-A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void_ergo). Edit them to suit your own needs and build the firmware following the QMK docs.
+A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/dev_void/keyboards/handwired/void_ergo). Edit them to suit your own needs and build the firmware following the QMK docs.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
