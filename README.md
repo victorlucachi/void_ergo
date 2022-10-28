@@ -3,8 +3,8 @@
 
 ![VOID Ergo S](https://i.imgur.com/aQ571vc.jpg)
 
-| ![](https://i.imgur.com/X6qhLW8.jpeg) 	| ![](https://i.imgur.com/vaoo9bM.jpeg) 	| ![](https://i.imgur.com/nWaW7JV.jpeg) 	|
-|---------------------------------------	|---------------------------------------	|---------------------------------------	|
+| ![](https://i.imgur.com/X6qhLW8.jpeg) | ![](https://i.imgur.com/vaoo9bM.jpeg) | ![](https://i.imgur.com/nWaW7JV.jpeg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
 
 ###### More renders [here](https://imgur.com/a/ki1BZij)
 
@@ -22,8 +22,8 @@ The brass inserts can be fixed in the bottom case by heating them and applying p
 
 I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
 
-| ![](https://i.imgur.com/MHTt02w.jpg) 	| ![](https://i.imgur.com/TzdhlCM.jpg) 	| ![](https://i.imgur.com/vTpQaXI.jpg) 	|
-|---------------------------------------	|---------------------------------------	|---------------------------------------	|
+| ![](https://i.imgur.com/01WknB5.jpg) 	| ![](https://i.imgur.com/GMMczAH.jpg) 	| ![](https://i.imgur.com/5NyUoJY.jpg) 	|
+|---------------------------------------|---------------------------------------|---------------------------------------|
 
 # Bill of Materials
 
@@ -59,9 +59,19 @@ I've also put together a pretty visual handwiring guide for the VOID9, that you 
 
 ![VOID Ergo S matrix layout](https://i.imgur.com/hrN9udq.png)
 
+# QMK Vial Fork
+
+A QMK Vial fork can be found [here](https://github.com/victorlucachi/vial-qmk/tree/dev_void/keyboards/handwired/void_ergo).
+
+Most features are disabled in order for the firmware to fit on the atmega32u4 present on the Pro Micro controllers, but if you want to tinker around with different features or if you're using a different MCU you can enable/disable them to suit your own needs by editing the rules.mk file in the vial keymap folder.
+
+![VOID Ergo S Vial](https://user-images.githubusercontent.com/2669084/198691150-df30a285-044d-4926-9cd1-cb79812d75bd.png)
+
 # QMK Fork
 
 A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/dev_void/keyboards/handwired/void_ergo). Edit them to suit your own needs and build the firmware following the QMK docs.
+
+If you plan on using the VIA configurator dont forget to download the json definitions file linked in this repository.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
