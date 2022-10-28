@@ -48,9 +48,11 @@ I've also put together a pretty visual handwiring guide for the VOID9, that you 
     D4      C6      D7      E6      B4      B5
 
 
-    Encoder Pad A           Encoder Pad B
+    Encoder Pad A Left      Encoder Pad B Left
     F5                      F6
 
+    Encoder Pad A Right     Encoder Pad B Right
+    F6                      F5
 
     Serial Pin
     D1
