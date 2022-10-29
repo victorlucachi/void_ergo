@@ -59,7 +59,7 @@ I've also put together a pretty visual handwiring guide for the VOID9, that you 
 
 *Matrix layout*
 
-![VOID Ergo S matrix layout](https://i.imgur.com/hrN9udq.png)
+![VOID Ergo S matrix layout](https://user-images.githubusercontent.com/2669084/198817120-c0a429e6-7d4c-46c4-8828-728ca2bc882f.png)
 
 # QMK Vial Fork
 
