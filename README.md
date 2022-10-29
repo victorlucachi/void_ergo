@@ -67,6 +67,8 @@ A QMK Vial fork can be found [here](https://github.com/victorlucachi/vial-qmk/tr
 
 Most features are disabled in order for the firmware to fit on the atmega32u4 present on the Pro Micro controllers, but if you want to tinker around with different features or if you're using a different MCU you can enable/disable them to suit your own needs by editing the rules.mk file in the vial keymap folder.
 
+The web version of Vial is available at [vial.rocks](https://vial.rocks/); it runs in supported browsers (Chrome, Edge and Opera) without requiring an installation.
+
 ![VOID Ergo S Vial](https://user-images.githubusercontent.com/2669084/198691150-df30a285-044d-4926-9cd1-cb79812d75bd.png)
 
 # QMK Fork
