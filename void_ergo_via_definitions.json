@@ -2,7 +2,6 @@
   "name":"VOID ERGO",
   "vendorId":"0xF055",
   "productId":"0x3535",
-  "lighting":"none",
   "matrix":{
     "rows":8,
     "cols":6
